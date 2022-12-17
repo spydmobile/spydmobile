@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning 
   - Snyk
   - GITHUB CI/CD 
+  - SvelteKit
+  - Prisma
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am: A Crazy Musician, Programmer, Wildfire Scientist, Open Source Guy.
 
