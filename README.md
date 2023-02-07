@@ -1,14 +1,19 @@
 ### 👋 Franco Nogarin aka spydmobile 
 
-- 🔭 I’m currently working on 
+In Feb of 2020 I started tracking my coding hours. Since then:
+
+[![wakatime](https://wakatime.com/badge/user/17f950c5-6cf4-44e0-987d-aa2a3f174e5f.svg)](https://wakatime.com/@17f950c5-6cf4-44e0-987d-aa2a3f174e5f)
+
+
+
+- 🔭 I’m currently creating on 
   - IntelliFire (Enterprise Wildfire Intelligence Decsion Support) 
-  - WISE (Wildfire Intelligence and Simulation Engine)
-  - CWFMF (Canadian Wildfire Modelling Framework)
+- 👯 I’m collaborating on ...
+  - [WISE (Wildfire Intelligence and Simulation Engine)](https://firegrowthmodel.ca/wise)
+  - [CWFMF (Canadian Wildfire Modelling Framework)](https://github.com/CWFMF/modelling_framework)
 - 🌱 I’m currently learning 
-  - Snyk
+  - AG-Grid Pro
   - GITHUB CI/CD 
-  - SvelteKit
-  - Prisma
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am: A Crazy Musician, Programmer, Wildfire Scientist, Open Source Guy.
 
