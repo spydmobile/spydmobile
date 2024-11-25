@@ -6,14 +6,17 @@ In Feb of 2020 I started tracking my coding hours. Since then:
 
 
 
-- 🔭 I’m currently creating on 
-  - IntelliFire (Enterprise Wildfire Intelligence Decsion Support) 
+- 🔭 I’m currently working on 
+  - IntelliFire (Enterprise Wildfire Intelligence Decision Support) 
 - 👯 I’m collaborating on ...
   - [WISE (Wildfire Intelligence and Simulation Engine)](https://firegrowthmodel.ca/wise)
   - [CWFMF (Canadian Wildfire Modelling Framework)](https://github.com/CWFMF/modelling_framework)
-- 🌱 I’m currently learning 
-  - AG-Grid Pro
-  - GITHUB CI/CD 
+- 🌱 I’m currently learning
+  - VITE
+  - REACT
+  - HandsOnTable
+  - ~~AG-Grid Pro~~
+  - [x] GITHUB CI/CD 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am: A Crazy Musician, Programmer, Wildfire Scientist, Open Source Guy.
 
